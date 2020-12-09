@@ -17,5 +17,5 @@ spec:
         app: kuard
     spec:
       containers:
-      - image: yellowmegaman/container-cassandra
+      - image: yellowmegaman/kuard
         name: kuard
