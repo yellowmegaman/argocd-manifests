@@ -17,5 +17,5 @@ spec:
         app: kuard
     spec:
       containers:
-      - image: gcr.io/kuar-demo/kuard-amd64:1
+      - image: yellowmegaman/container-cassandra
         name: kuard
